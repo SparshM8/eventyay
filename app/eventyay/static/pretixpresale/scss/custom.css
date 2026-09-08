@@ -47,6 +47,10 @@ header .header-row-right {
     font-size: 1rem;
 }
 
+#tickets {
+    scroll-margin-top: 60px;
+}
+
 #header-nav-bar {
     margin-top: 10px;
     margin-bottom: 3rem;
